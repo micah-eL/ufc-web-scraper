@@ -14,6 +14,7 @@ The functionality is fairly simple at the moment as this was my first foray into
 If you are unfamiliar with using virtual environments, the 2 libraries needed to run this script are beautifulsoup and requests:
 
 pip install beautifulsoup4
+
 pip install requests
 
 Note: These libraries were downloaded in a Python3 virtual environment (i.e. pip3 was used).
